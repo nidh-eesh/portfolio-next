@@ -1,36 +1,76 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 👨‍💻 Nidheesh P — Full Stack Software Engineer
 
-## Getting Started
+Hi! I'm **Nidheesh**, a Full Stack Developer from Kerala, India 🇮🇳  
+I specialize in building scalable, cloud-native applications with modern web technologies and DevOps practices. From front-end interfaces to backend systems, I love crafting performant and user-centric software solutions.
 
-First, run the development server:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nidheesh--p-blue?logo=linkedin)](https://www.linkedin.com/in/nidheesh-p)
+[![GitHub](https://img.shields.io/badge/GitHub-nidh--eesh-black?logo=github)](https://github.com/nidh-eesh)
+[![Email](https://img.shields.io/badge/Email-nidheesh.p@outlook.com-informational?logo=gmail)](mailto:nidheesh.p@outlook.com)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔧 Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Frontend:** React.js, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js, Django, Python  
+- **Database:** PostgreSQL, MongoDB, Firebase (NoSQL)  
+- **DevOps & Cloud:** Docker, Kubernetes, AWS (Lambda, EC2, S3), Azure  
+- **CI/CD:** GitHub Actions, Jenkins  
+- **Other:** REST APIs, Microservices, Serverless Architecture, Firebase Auth, Google Drive API
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🚀 Projects
 
-To learn more about Next.js, take a look at the following resources:
+### 🔹 [Google Drive Letter Editor](https://github.com/nidh-eesh/google-drive-letter-editor)
+A full-stack document editor using **Next.js + Node.js**, with:
+- Google OAuth via Firebase Authentication
+- Google Drive API for storage
+- Firestore for real-time sync
+- Deployed on Vercel
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 🔹 [Home Media Server](https://github.com/nidh-eesh/home-media-server)
+A self-hosted **Jellyfin** streaming solution:
+- Dockerized media server with Kubernetes for scaling
+- Custom automation scripts for media management
+- Improved transcoding for Samsung Tizen TV
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 🔹 [Medication Reminder](https://github.com/nidh-eesh/medication-reminder)
+A Django + Twilio based WhatsApp notifier:
+- Scheduled reminders via PostgreSQL
+- 99% delivery success rate
+- Efficient, scalable backend
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 💼 Experience
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 🏢 Junior Software Engineer — *Efeone Pvt Ltd, Calicut*
+**Aug 2023 – Jan 2025**
+- Built and maintained scalable full-stack applications
+- Designed RESTful APIs & microservices
+- Implemented CI/CD pipelines
+- Containerized apps with Docker & Kubernetes
+- Boosted backend performance by 40%
+
+---
+
+## 📚 Education & Certifications
+
+- **B.Tech in Information Technology**  
+  University of Calicut — *Graduated August 2023*
+
+- **Certified in Java & MEAN Stack**  
+  L&T EduTech – ASAP Kerala
+
+---
+
+## 📬 Get in Touch
+
+📧 **Email:** [nidheesh.p@outlook.com](mailto:nidheesh.p@outlook.com)  
+🔗 **Portfolio:** Coming soon!
+
+---
+
+> _“First, solve the problem. Then, write the code.”_ – John Johnson
+
