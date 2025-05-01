@@ -88,7 +88,7 @@ const projects: Project[] = [
         ],
         image: "/assets/work/thumb4.png",
         live: "",
-        github: "",
+        github: "https://github.com/nidh-eesh/Zentry",
     },
     {
         num: "05",
@@ -99,8 +99,8 @@ const projects: Project[] = [
             { name: "React.js" }
         ],
         image: "/assets/work/thumb5.png",
-        live: "",
-        github: "",
+        live: "https://memento-react-b903a.web.app/",
+        github: "https://github.com/nidh-eesh/memorize",
     },
     {
         num: "06",
@@ -111,8 +111,8 @@ const projects: Project[] = [
             { name: "JavaScript" }
         ],
         image: "/assets/work/thumb6.png",
-        live: "",
-        github: "",
+        live: "https://asteroid-js.web.app/",
+        github: "https://github.com/nidh-eesh/asteroids-js",
     }
 ]
 
