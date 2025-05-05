@@ -156,7 +156,7 @@ const Resume = () => {
                                         alt="Experience Icon"
                                         width={24}
                                         height={24} />
-                                    <h3 className="text-4xl font-bold">{education.title}</h3>
+                                    <h3 className="text-4xl font-bold">{experience.title}</h3>
                                 </div>
                                 <p className="max-w-[600px] text-white/60 mx-auto xl:mx-0">{experience.description}</p>
                                 <ScrollArea className="max-h-[400px]">
