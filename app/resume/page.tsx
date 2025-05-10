@@ -232,10 +232,16 @@ const Resume = () => {
                                             <li role="listitem" key={index}>
                                                 <TooltipProvider delayDuration={100}>
                                                     <Tooltip>
-                                                        <TooltipTrigger className="w-full h-[150px] bg-[#232329] rounded-xl flex justify-center items-center group">
-                                                            <div className="text-6xl group-hover:text-accent transition-all duration-300">{skill.icon}</div>
+                                                        <TooltipTrigger className="w-full h-[150px] bg-[#232329] rounded-xl flex flex-col justify-center items-center group text-center p-4">
+                                                            <div className="text-6xl group-hover:text-accent transition-all duration-300">
+                                                                {skill.icon}
+                                                            </div>
+                                                            {/* Show name below icon on mobile */}
+                                                            <p className="mt-2 text-sm text-white/60 capitalize block sm:hidden">
+                                                                {skill.name}
+                                                            </p>
                                                         </TooltipTrigger>
-                                                        <TooltipContent>
+                                                        <TooltipContent className="hidden sm:block">
                                                             <p className="capitalize">{skill.name}</p>
                                                         </TooltipContent>
                                                     </Tooltip>
