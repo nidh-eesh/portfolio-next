@@ -44,8 +44,8 @@ const projects: Project[] = [
             { name: "Google Drive API" }
         ],
         image: "/assets/work/thumb1.png",
-        live: "", // Add Vercel link if deployed
-        github: "", // Add GitHub repo link
+        live: "https://letters.nidheesh.me/",
+        github: "https://github.com/nidh-eesh/letter-writer-next",
     },
     {
         num: "02",
