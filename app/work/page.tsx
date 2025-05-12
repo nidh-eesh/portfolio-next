@@ -60,7 +60,7 @@ const projects: Project[] = [
         ],
         image: "/assets/work/thumb2.png",
         live: "",
-        github: "",
+        github: "https://github.com/nidh-eesh/Med-Rem",
     },
     {
         num: "03",
@@ -75,7 +75,7 @@ const projects: Project[] = [
         ],
         image: "/assets/work/thumb3.png",
         live: "",
-        github: "",
+        github: "https://github.com/nidh-eesh/jellyfin-web",
     },
     {
         num: "04",
